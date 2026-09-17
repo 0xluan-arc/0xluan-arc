@@ -54,7 +54,6 @@
 
 Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
 
-* 🌐 **Website Portfolio 3D:** [luan0867596981-dv.github.io](https://luan0867596981-dv.github.io)
 * 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
 * 🐙 **GitHub:** [@luan0867596981-dv](https://github.com/luan0867596981-dv)
 * 📍 **Khu vực:** Thủ Đức, TP. Hồ Chí Minh
