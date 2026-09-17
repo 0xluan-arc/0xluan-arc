@@ -1,7 +1,7 @@
 # Nguyễn Minh Luân — Backend Developer Intern & AI Integrator
 
 💡 **Guiding Creed:** *"Xây dựng hệ thống backend bền vững với Clean Architecture và mang AI vào giải quyết bài toán thực tế."*
-🌐 **Khám phá Website Portfolio 3D của tôi:** [luan0867596981-dv.github.io](https://luan0867596981-dv.github.io)
+
 
 ---
 
@@ -46,7 +46,6 @@
 
 * **Trường Đại học Công nghệ TP.HCM (HUTECH)** *(2023 – Hiện tại)*
   * *Sinh viên năm 4 - Ngành Công nghệ Thông tin (IT)*
-  * **Thành tích học tập:** Điểm trung bình (GPA) **3.11 / 4.00**
   * **Định hướng:** Chuyên sâu vào công nghệ phần mềm, kiến trúc hệ thống phân tán và ứng dụng AI.
 
 ---
