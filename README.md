@@ -3,17 +3,17 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/luan0867596981-dv">
-    <img src="https://img.shields.io/github/followers/luan0867596981-dv?label=Followers&style=for-the-badge&color=009688&logo=github" alt="Followers"/>
+  <a href="https://github.com/0xluan-arc">
+    <img src="https://img.shields.io/github/followers/0xluan-arc?label=Followers&style=for-the-badge&color=009688&logo=github" alt="Followers"/>
   </a>
-  <a href="https://github.com/luan0867596981-dv">
-    <img src="https://img.shields.io/github/stars/luan0867596981-dv?style=for-the-badge&color=eab308&logo=github" alt="Stars"/>
+  <a href="https://github.com/0xluan-arc">
+    <img src="https://img.shields.io/github/stars/0xluan-arc?style=for-the-badge&color=eab308&logo=github" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=luan0867596981-dv&color=512BD4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=0xluan-arc&color=512BD4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  💡 <b>Guiding Creed:</b> <i>"Xây dựng hệ thống backend bền vững với Clean Architecture và mang AI vào giải quyết bài toán thực tế."</i>
+  💡 <b>Guiding Creed:</b> <i>"Không chỉ viết code chạy được — tôi xây dựng backend chuẩn mực với Clean Architecture, tối ưu hiệu năng và sẵn sàng tích hợp AI vào giải quyết bài toán thực tế."</i>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -32,7 +32,7 @@
 
 ## 🏆 Featured Projects & Core Pillars
 
-### 1. 🧬 [AMNTDDA](https://github.com/luan0867596981-dv/AMGDT_v2) — Hệ thống Dự đoán Thuốc & Bệnh bằng Trí tuệ Nhân tạo
+### 1. 🧬 [AMNTDDA](https://github.com/0xluan-arc/AMGDT_v2) — Hệ thống Dự đoán Thuốc & Bệnh bằng Trí tuệ Nhân tạo
 * **Vai trò:** Trưởng nhóm Backend & AI Integration
 * **The Mission:** Xây dựng mô hình học máy để dự đoán mối liên hệ giữa các loại thuốc và bệnh lý, hỗ trợ rút ngắn thời gian nghiên cứu y sinh.
 * **Architecture & Engineering:** 
@@ -84,17 +84,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan0867596981-dv&theme=tokyonight" alt="GitHub Profile Summary"/>
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan0867596981-dv&theme=tokyonight" alt="Repos Per Language"/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xluan-arc&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xluan-arc&theme=tokyonight" alt="Repos Per Language"/>
 </p>
 
 <p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com/?user=luan0867596981-dv&theme=tokyonight" alt="Streak Stats"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=0xluan-arc&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
 
 ## 🤝 Connect & Collaborate
+
+Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
+
 * 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
-* 🐙 **GitHub:** [@luan0867596981-dv](https://github.com/luan0867596981-dv)
+* 🐙 **GitHub:** [@0xluan-arc](https://github.com/0xluan-arc)
 * 📍 **Khu vực:** Thủ Đức, TP. Hồ Chí Minh
