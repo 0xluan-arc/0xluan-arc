@@ -18,18 +18,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
-
----
-
 ## 🏆 Featured Projects & Core Pillars
 
 ### 1. 🧬 [AMNTDDA](https://github.com/0xluan-arc/AMGDT_v2) — Hệ thống Dự đoán Thuốc & Bệnh bằng Trí tuệ Nhân tạo
@@ -73,6 +61,17 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+---
 ## 🎓 Academic Foundation
 
 * **Trường Đại học Công nghệ TP.HCM (HUTECH)** *(2023 – Hiện tại)*
@@ -95,8 +94,6 @@
 ---
 
 ## 🤝 Connect & Collaborate
-
-Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
 
 * 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
 * 🐙 **GitHub:** [@0xluan-arc](https://github.com/0xluan-arc)
