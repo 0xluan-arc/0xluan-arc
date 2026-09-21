@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+there!+I'm+Nguyen+Minh+Luan;Backend+Developer+Intern+%26+AI+Integrator;ASP.NET+Core+8+%7C+C%23+%7C+Clean+Architecture;FastAPI+%7C+Python+%7C+PyTorch+%26+GNN;Building+Scalable+%26+Intelligent+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&lines=Hi+there!+I'm+Nguyen+Minh+Luan;Backend+Developer+Intern+%26+AI+Integrator;ASP.NET+Core+8+%7C+C%23+%7C+Clean+Architecture;FastAPI+%7C+Python+%7C+PyTorch+%26+GNN;Building+Scalable+%26+Intelligent+Systems" alt="Typing Banner" />
 </h1>
 
 <p align="center">
@@ -14,6 +14,18 @@
 
 <p align="center">
   💡 <b>Guiding Creed:</b> <i>"Không chỉ viết code chạy được — tôi xây dựng backend chuẩn mực với Clean Architecture, tối ưu hiệu năng và sẵn sàng tích hợp AI vào giải quyết bài toán thực tế."</i>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
 ---
@@ -61,17 +73,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/0xluan-arc/0xluan-arc/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
-
----
 ## 🎓 Academic Foundation
 
 * **Trường Đại học Công nghệ TP.HCM (HUTECH)** *(2023 – Hiện tại)*
@@ -94,6 +95,8 @@
 ---
 
 ## 🤝 Connect & Collaborate
+
+Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
 
 * 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
 * 🐙 **GitHub:** [@0xluan-arc](https://github.com/0xluan-arc)
