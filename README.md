@@ -1,7 +1,32 @@
-# Nguyễn Minh Luân — Backend Developer Intern & AI Integrator
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+there!+I'm+Nguyen+Minh+Luan;Backend+Developer+Intern+%26+AI+Integrator;ASP.NET+Core+8+%7C+C%23+%7C+Clean+Architecture;FastAPI+%7C+Python+%7C+PyTorch+%26+GNN;Building+Scalable+%26+Intelligent+Systems" alt="Typing Banner" />
+</h1>
 
-💡 **Guiding Creed:** *"Xây dựng hệ thống backend bền vững với Clean Architecture và mang AI vào giải quyết bài toán thực tế."*
+<p align="center">
+  <a href="https://github.com/luan0867596981-dv">
+    <img src="https://img.shields.io/github/followers/luan0867596981-dv?label=Followers&style=for-the-badge&color=009688&logo=github" alt="Followers"/>
+  </a>
+  <a href="https://github.com/luan0867596981-dv">
+    <img src="https://img.shields.io/github/stars/luan0867596981-dv?style=for-the-badge&color=eab308&logo=github" alt="Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=luan0867596981-dv&color=512BD4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
+<p align="center">
+  💡 <b>Guiding Creed:</b> <i>"Xây dựng hệ thống backend bền vững với Clean Architecture và mang AI vào giải quyết bài toán thực tế."</i>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/luan0867596981-dv/luan0867596981-dv/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
@@ -32,6 +57,12 @@
 
 ## 🛠️ Technical Capabilities & Pragmatic Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,pytorch,mysql,postgres,sqlite,git,github,postman&theme=dark" alt="Technical Arsenal" />
+  </a>
+</p>
+
 | Domain | Core Technologies & Tooling |
 |---|---|
 | **Backend & Architecture** | C# (.NET), Python, ASP.NET Core 8, FastAPI, RESTful APIs, Clean Architecture |
@@ -50,17 +81,20 @@
 
 ---
 
-## 🤝 Connect & Collaborate
+## 📊 GitHub Analytics
 
-Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
+<p align="center">
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan0867596981-dv&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan0867596981-dv&theme=tokyonight" alt="Repos Per Language"/>
+</p>
 
-* 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
-* 🐙 **GitHub:** [@luan0867596981-dv](https://github.com/luan0867596981-dv)
-* 📍 **Khu vực:** Thủ Đức, TP. Hồ Chí Minh
+<p align="center">
+  <img height="165em" src="https://streak-stats.demolab.com/?user=luan0867596981-dv&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luan0867596981-dv&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=009688&text_color=777" alt="Luân's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan0867596981-dv&layout=compact&theme=transparent&hide_border=true&title_color=512BD4&text_color=777" alt="Top Languages" width="48%" />
-</div>
+## 🤝 Connect & Collaborate
+* 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
+* 🐙 **GitHub:** [@luan0867596981-dv](https://github.com/luan0867596981-dv)
+* 📍 **Khu vực:** Thủ Đức, TP. Hồ Chí Minh
