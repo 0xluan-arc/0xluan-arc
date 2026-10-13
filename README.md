@@ -73,14 +73,6 @@
 
 ---
 
-## 🎓 Academic Foundation
-
-* **Trường Đại học Công nghệ TP.HCM (HUTECH)** *(2023 – Hiện tại)*
-  * *Sinh viên năm 4 - Ngành Công nghệ Thông tin (IT)*
-  * **Định hướng:** Chuyên sâu vào công nghệ phần mềm, kiến trúc hệ thống phân tán và ứng dụng AI.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
