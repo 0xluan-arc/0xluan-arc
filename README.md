@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&lines=Hi+there!+I'm+Nguyen+Minh+Luan;Backend+Developer+Intern+%26+AI+Integrator;ASP.NET+Core+8+%7C+C%23+%7C+Clean+Architecture;FastAPI+%7C+Python+%7C+PyTorch+%26+GNN;Building+Scalable+%26+Intelligent+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&lines=Hi+there!+I'm+Nguyen+Minh+Luan;Backend+Developer+Intern+%26+AI+Integrator;ASP.NET+Core+8+%7C+C%23+%7C+Clean+Architecture;FastAPI+%7C+Python+%7C+PyTorch+%26+GNN;PHP+MVC+%7C+MySQL+%7C+RESTful+APIs;Building+Scalable+%26+Intelligent+Systems" alt="Typing Banner" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💡 <b>Guiding Creed:</b> <i>"Không chỉ viết code chạy được — tôi xây dựng backend chuẩn mực với Clean Architecture, tối ưu hiệu năng và sẵn sàng tích hợp AI vào giải quyết bài toán thực tế."</i>
+  💡 <b>Guiding Creed:</b> <i>"Make it work. Make it right. Make it matter."</i>
 </p>
 
 ---
@@ -55,20 +55,32 @@
 
 ---
 
+### 3. 🛒 [TechStore E-Commerce](https://github.com/0xluan-arc/TechStore_PHP) — Nền tảng Thương mại Điện tử & Quản trị Bán hàng
+* **Vai trò:** Backend Developer
+* **The Mission:** Xây dựng giải pháp web thương mại điện tử chuyên nghiệp cung cấp thiết bị công nghệ, tối ưu luồng xử lý đơn hàng, giỏ hàng session và thanh toán trực tuyến.
+* **Architecture & Engineering:**
+  * Thiết kế cấu trúc hệ thống theo mô hình chuẩn **MVC (Model-View-Controller)** bằng **PHP thuần OOP**, tách biệt rõ rệt tầng xử lý logic và hiển thị.
+  * Chuẩn hóa cơ sở dữ liệu quan hệ **MySQL**, sử dụng **PDO Prepared Statements** ngăn chặn triệt để lỗ hổng SQL Injection và bảo vệ phiên bằng Session/Cookies an toàn.
+  * Tích hợp cổng thanh toán trực tuyến **VNPay Sandbox**, tự động cập nhật trạng thái đơn hàng và gửi email thông báo.
+  * Xây dựng trang Admin Dashboard thống kê doanh thu, quản lý danh mục sản phẩm và phân quyền người dùng (Admin / Customer).
+* **Tech Stack:** `PHP` `MySQL` `MVC Architecture` `VNPay API` `Bootstrap`
+
+---
+
 ## 🛠️ Technical Capabilities & Pragmatic Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,pytorch,mysql,postgres,sqlite,git,github,postman&theme=dark" alt="Technical Arsenal" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,pytorch,php,mysql,postgres,sqlite,git,github,postman&theme=dark" alt="Technical Arsenal" />
   </a>
 </p>
 
 | Domain | Core Technologies & Tooling |
 |---|---|
-| **Backend & Architecture** | C# (.NET), Python, ASP.NET Core 8, FastAPI, RESTful APIs, Clean Architecture |
-| **Databases & ORM** | Microsoft SQL Server, Entity Framework (EF) Core, SQLite, MySQL |
+| **Backend & Architecture** | C# (.NET), Python, PHP, ASP.NET Core 8, FastAPI, PHP MVC, RESTful APIs, Clean Architecture |
+| **Databases & ORM** | Microsoft SQL Server, Entity Framework (EF) Core, MySQL, SQLite |
 | **AI & Machine Learning** | PyTorch, PyTorch Geometric, Scikit-learn |
-| **Security & Integration** | ASP.NET Identity, JWT Authentication, Google Maps API, Cloudinary |
+| **Security & Integration** | ASP.NET Identity, JWT Authentication, VNPay Sandbox, Google Maps API, Cloudinary |
 | **DevOps & Tooling** | Git, GitHub, Postman |
 
 ---
@@ -90,6 +102,7 @@
 
 Tôi luôn sẵn sàng cho các cơ hội **Thực tập vị trí Backend Developer**, hoặc hợp tác trong các dự án phần mềm mới.
 
+* 🌐 **Website Portfolio 3D:** [0xluan-arc.github.io](https://0xluan-arc.github.io)
 * 📧 **Email:** [luan0867596981@gmail.com](mailto:luan0867596981@gmail.com)
 * 🐙 **GitHub:** [@0xluan-arc](https://github.com/0xluan-arc)
 * 📍 **Khu vực:** Thủ Đức, TP. Hồ Chí Minh
